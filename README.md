@@ -36,13 +36,13 @@ Before running the project, ensure you have Python installed (preferably Python 
 ## Installation
 Clone the repository:
 
-Bash
+````Bash````
 
-git clone https://github.com/YourUsername/your-spam-classifier.git
+````git clone https://github.com/YourUsername/your-spam-classifier.git
 cd your-spam-classifier
 Install dependencies:
 
-Bash
+(````Bash````)
 
 pip install -r requirements.txt
 (If you don't have a requirements.txt file yet, you can create one by running pip freeze > requirements.txt after installing all your project's dependencies, or list them manually as pip install pandas numpy scikit-learn nltk etc.)
