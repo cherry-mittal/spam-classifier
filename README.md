@@ -29,11 +29,11 @@ nltk (for natural language processing tasks like tokenization, stop words)
 
 (Add any other libraries you used, e.g., matplotlib, seaborn for visualization, jupyter for notebooks)
 
-Getting Started
-Prerequisites
+# Getting Started
+## Prerequisites
 Before running the project, ensure you have Python installed (preferably Python 3.x). You'll also need to install the required libraries.
 
-Installation
+## Installation
 Clone the repository:
 
 Bash
@@ -47,7 +47,7 @@ Bash
 pip install -r requirements.txt
 (If you don't have a requirements.txt file yet, you can create one by running pip freeze > requirements.txt after installing all your project's dependencies, or list them manually as pip install pandas numpy scikit-learn nltk etc.)
 
-Usage
+## Usage
 Data Preparation:
 (Describe how to obtain or prepare the dataset. E.g., "Place your dataset (spam_ham_dataset.csv or similar) in the data/ directory.")
 
@@ -82,11 +82,11 @@ spam-classifier/
 └── LICENSE                   (Optional: choose a license)
 (Adjust this structure to match your actual project organization.)
 
-Dataset
+## Dataset
 (Briefly describe the dataset you used for training and testing your classifier. For example:)
 The dataset used for this project consists of SMS messages labeled as either "spam" or "ham" (legitimate). It was sourced from [mention source, e.g., Kaggle, UCI Machine Learning Repository] and contains approximately [Number] entries.
 
-Results
+## Results
 (Summarize the performance of your best model. You can include a small table or just state the key metrics.)
 The final spam classifier model achieved the following performance on the test set:
 
@@ -98,7 +98,7 @@ Recall (Spam): [e.g., 95.8%]
 
 F1-Score (Spam): [e.g., 96.1%]
 
-Future Enhancements
+## Future Enhancements
 Experiment with more advanced NLP techniques (e.g., Word Embeddings like Word2Vec, GloVe).
 
 Explore deep learning models (e.g., LSTMs, Transformers) for classification.
