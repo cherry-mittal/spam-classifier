@@ -11,3 +11,6 @@ Feature Extraction: Converts text data into numerical features using techniques 
 Machine Learning Models: Implements and evaluates various classification algorithms (e.g., Naive Bayes, Support Vector Machines, Logistic Regression, etc.) to identify the most effective model for spam detection.
 
 Model Evaluation: Provides metrics to assess model performance, such as accuracy, precision, recall, and F1-score.
+
+<img width="959" height="772" alt="Screenshot 2026-01-19 at 2 47 58 PM" src="https://github.com/user-attachments/assets/97300af1-476f-4a93-bd57-8643a48d4bd1" />
+
