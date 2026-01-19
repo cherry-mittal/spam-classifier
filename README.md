@@ -6,7 +6,7 @@ This project implements a Spam Classifier designed to accurately distinguish bet
 ## Features
 Data Preprocessing: Includes steps for cleaning and preparing text data.
 
-Feature Extraction: Converts text data into numerical features using techniques like TF-IDF (Term Frequency-Inverse Document Frequency) or Count Vectorization.
+Feature Extraction: Converts text data into numerical features using techniques - TF-IDF (Term Frequency-Inverse Document Frequency) or Count Vectorization, and compares them on different models.
 
 Machine Learning Models: Implements and evaluates various classification algorithms (e.g., Naive Bayes, Support Vector Machines, Logistic Regression, etc.) to identify the most effective model for spam detection.
 
